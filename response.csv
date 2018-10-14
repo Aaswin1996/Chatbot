@@ -1,0 +1,35 @@
+Intent,Entity,Usecase,Response
+Reset,MVS,reset MVS password,"Hi as per your query, you want to reset MVS password."
+Work,drive,network drive issue,"Hi, issue is related to network drive"
+Map,drive,map network drive,"Hi, as per your query, you want to map network drive."
+Reset,AS400,reset AS400 password,"Hi as per your query, you want to reset AS400 password."
+Work,Browser,Chrome error,You have internet issues
+Work,Browser;Windows,Chrome error,You have internet issues
+Work,Application_Name,application error,You have issues with the application
+Work,MSexcel,application error,You have issues with MS excel
+Work,Msword,application error,You have issues with MS word
+Work,Mspowerpoint,application error,You have issues with MS powerpoint
+Work,Skype,application error,You have issues with skype
+Work,Network_Type,network error,It looks like you have issues with the network
+Work,Wifi,network error,It seems you have issues with the wifi
+Work,Device_Name,device error,You may have issues with your device
+Work,Printer,device error,Looks like you have issues with the printer
+Work,smart card,device error,Looks like you have issues with the smart card
+Work,Network Drive,device error,Looks like you have issues with the network drive
+Work,OS,os error,"As per your query,you have issues with the operating system"
+Work,Windows,os error,"As per your query,you have issues with windows"
+Work,Linux,os error,"As per your query, you have issues with linux"
+Work,Connection_Type,connection error,Looks like you have issues with the connection 
+Work,Mac,os error,"As per your query,you have issues with Mac"
+Work,Bluetooth,connection error,Looks like you have problems related to bluetooth
+Reset,Wired;ID,connection error,"As per your query,you want to reset your lan ID"
+Reset,Wired;PASSWORD,connection error,"As per your query,you want to reset your lan password"
+Reset,skype;PASSWORD,application error,"As per your query,you want to reset your skype password"
+Map,Network Drive,mapping error,"As per your query,you want to map the NETWORK drive"
+Map,home drive,mapping error,"As per your query,you want to map the HOME drive"
+Map,Share Drive,mapping error,"As per your query,you want to map the SHARED drive"
+Map,Personal Drive,mapping error,"As per your query,you want to map the PERSONAL drive"
+Map,Log;Network Drive,login error,"As per your query, you want to log in to the network drives"
+Work,Weather,login,"It is quite cold today"
+Map,Rain,login,"Yes there is a high possibility of rain here"
+Map,Cloudy,login,"No in fact it is quite sunny out there"

@@ -1,0 +1,1867 @@
+2018-10-14 20:44:49,995 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 20:44:49,996 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 20:44:49,996 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 20:44:50,023 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 20:44:50,024 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 20:44:50,025 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 20:44:50,025 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 20:44:50,026 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 20:44:50,026 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 20:44:50,092 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 20:44:50,093 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 20:44:50,097 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:06:40,795 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:06:40,795 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:06:40,795 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:06:40,797 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:06:40,797 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:06:40,797 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:06:40,797 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:06:40,797 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:06:40,798 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:06:40,864 - entity_check - find_similar_entity - INFO - Extracted Entity:[['password', 0.6956521739130435], ['ip', 0.6666666666666666], ['id', 0.6666666666666666]]
+2018-10-14 21:06:40,866 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:06:40,866 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:07:32,569 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:07:32,570 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:07:32,570 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:07:32,571 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:07:32,571 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:07:32,571 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:07:32,571 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:07:32,571 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:07:32,571 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:07:32,612 - entity_check - find_similar_entity - INFO - Extracted Entity:[['win', 0.6666666666666666]]
+2018-10-14 21:07:32,613 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:07:32,617 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:08:32,931 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:08:32,932 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:08:32,932 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:08:32,933 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:08:32,934 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:08:32,934 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:08:32,934 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:08:32,934 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:08:32,934 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:08:32,976 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:08:32,977 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:08:32,981 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:09:12,700 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:09:12,701 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:09:12,701 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:09:12,702 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:09:12,702 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:09:12,702 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:09:12,702 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:09:12,702 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:09:12,702 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:09:12,743 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:09:12,744 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:09:12,748 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:09:59,438 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:09:59,438 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:09:59,438 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:09:59,439 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:09:59,439 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:09:59,440 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:09:59,440 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:09:59,440 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:09:59,440 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:09:59,481 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:09:59,482 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:09:59,487 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:14:31,416 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:14:31,416 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:14:31,417 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:14:31,418 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:14:31,418 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:14:31,419 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:14:31,419 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:14:31,419 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:14:31,419 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:14:31,591 - entity_check - find_similar_entity - INFO - Extracted Entity:[['drive', 0.7142857142857143], ['folder', 0.7058823529411765], ['mac ', 0.6666666666666666], ['ip', 0.6666666666666666], ['id', 0.6666666666666666]]
+2018-10-14 21:14:31,596 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:14:31,597 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:15:55,114 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:15:55,114 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:15:55,114 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:15:55,115 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:15:55,115 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:15:55,116 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:15:55,116 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:15:55,116 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:15:55,116 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:15:55,157 - entity_check - find_similar_entity - INFO - Extracted Entity:[['skype', 0.7142857142857143], ['password', 0.6956521739130435]]
+2018-10-14 21:15:55,158 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:15:55,158 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:16:25,581 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:16:25,581 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:16:25,581 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:16:25,582 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:16:25,582 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:16:25,583 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:16:25,583 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:16:25,583 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:16:25,583 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:16:25,616 - entity_check - find_similar_entity - INFO - Extracted Entity:[['mac ', 0.6666666666666666]]
+2018-10-14 21:16:25,617 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:16:25,617 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:16:44,287 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:16:44,287 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:16:44,287 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:16:44,288 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:16:44,288 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:16:44,289 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:16:44,289 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:16:44,289 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:16:44,289 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:16:44,312 - entity_check - find_similar_entity - INFO - Extracted Entity:[['ip', 0.6666666666666666], ['id', 0.6666666666666666]]
+2018-10-14 21:16:44,313 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:16:44,313 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:30:53,747 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:30:53,747 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:30:53,748 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:30:53,752 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:30:53,752 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:30:53,754 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:30:53,755 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:30:53,756 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:30:53,756 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:30:53,815 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:30:53,816 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:30:53,816 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:31:40,521 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:31:40,523 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:31:40,524 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:31:40,530 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:31:40,531 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:31:40,533 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:31:40,533 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:31:40,534 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:31:40,534 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:31:40,592 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:31:40,592 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:31:40,597 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:33:18,674 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:33:18,675 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:33:18,676 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:33:18,680 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:33:18,680 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,681 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,681 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,682 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,682 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:33:18,716 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:33:18,717 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:33:18,719 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:33:18,719 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:33:18,719 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:33:18,719 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:33:18,720 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,720 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,720 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,720 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,720 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:33:18,729 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:33:18,729 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:33:18,729 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:33:18,729 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:33:18,729 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:33:18,729 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:33:18,729 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,729 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,730 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,730 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,730 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:33:18,740 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:33:18,740 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:33:18,740 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:33:18,740 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:33:18,740 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:33:18,741 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:33:18,741 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,741 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,741 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:33:18,741 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:33:18,741 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:33:18,758 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:33:18,758 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:33:18,758 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:34:58,959 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:34:58,960 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:34:58,961 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:34:58,966 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:34:58,966 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:58,967 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:58,967 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:58,968 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:58,968 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:34:59,020 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:34:59,021 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:34:59,023 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:34:59,023 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:34:59,023 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:34:59,023 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:34:59,023 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:59,024 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:59,024 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:59,024 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:59,024 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:34:59,033 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:34:59,033 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:34:59,033 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:34:59,033 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:34:59,033 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:34:59,033 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:34:59,033 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:59,033 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:59,033 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:59,034 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:59,034 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:34:59,044 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:34:59,044 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:34:59,044 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:34:59,044 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:34:59,044 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:34:59,044 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:34:59,044 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:59,045 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:59,045 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:34:59,045 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:34:59,045 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:34:59,057 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:34:59,057 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:34:59,057 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:38:09,753 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:38:09,754 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:38:09,755 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:38:09,759 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:38:09,759 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,760 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,760 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,761 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,761 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:38:09,792 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:38:09,793 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:38:09,794 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:38:09,794 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:38:09,794 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:38:09,795 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:38:09,795 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,795 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,795 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,795 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,795 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:38:09,804 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:38:09,804 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:38:09,804 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:38:09,804 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:38:09,804 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:38:09,804 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:38:09,805 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,805 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,805 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,805 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,805 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:38:09,815 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:38:09,815 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:38:09,815 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:38:09,815 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:38:09,815 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:38:09,816 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:38:09,816 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,816 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,816 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:38:09,816 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:38:09,816 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:38:09,829 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:38:09,829 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:38:09,829 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:39:40,633 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:39:40,634 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:39:40,635 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:39:40,641 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:39:40,642 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,643 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,643 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,644 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,644 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:39:40,679 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:39:40,680 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:39:40,681 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:39:40,681 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:39:40,681 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:39:40,682 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:39:40,682 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,683 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,683 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,683 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,683 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:39:40,691 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:39:40,691 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:39:40,691 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:39:40,691 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:39:40,691 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:39:40,691 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:39:40,691 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,691 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,692 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,692 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,692 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:39:40,702 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:39:40,702 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:39:40,702 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:39:40,702 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:39:40,702 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:39:40,703 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:39:40,703 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,703 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,703 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:39:40,703 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:39:40,703 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:39:40,717 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:39:40,717 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:39:40,717 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:40:25,803 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:40:25,804 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:40:25,804 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:40:25,808 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:40:25,809 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:40:25,810 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:40:25,810 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:40:25,811 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:40:25,811 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:40:25,847 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:40:25,847 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:40:25,849 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:41:26,736 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:41:26,737 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:41:26,737 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:41:26,739 - entity_check - extract_entity - ERROR - Error Details.......list index out of range
+2018-10-14 21:41:26,740 - entity_check - entity_retrieval - ERROR - Error Details.......'NoneType' object is not iterable
+2018-10-14 21:41:45,226 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:41:45,227 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:41:45,228 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:41:45,233 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:41:45,234 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:41:45,235 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:41:45,235 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:41:45,236 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:41:45,237 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:41:45,269 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:41:45,270 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:41:45,272 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:42:41,760 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:42:41,762 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:42:41,763 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:42:41,769 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:42:41,770 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:42:41,771 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:42:41,771 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:42:41,772 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:42:41,772 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:42:41,806 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:42:41,806 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:42:41,808 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:37,314 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:45:37,314 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:37,315 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:37,319 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:37,319 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,320 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,320 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,321 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,322 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:37,358 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:45:37,359 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:37,361 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:37,361 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:37,361 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:37,361 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:37,361 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,362 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,362 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,362 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,362 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:37,369 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:45:37,369 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:37,370 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:37,370 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:37,370 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:37,370 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:37,370 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,370 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,370 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,370 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,370 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:37,380 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:45:37,380 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:37,380 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:37,380 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:37,380 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:37,380 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:37,380 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,381 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,381 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:37,381 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:37,381 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:37,393 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:45:37,393 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:37,393 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:54,045 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:45:54,046 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:54,047 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:54,053 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:54,054 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,055 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,055 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,056 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,057 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:54,088 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:45:54,089 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:54,090 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:54,090 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:54,090 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:54,091 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:54,091 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,091 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,091 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,091 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,091 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:54,099 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:45:54,099 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:54,099 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:54,099 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:54,099 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:54,100 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:54,100 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,100 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,100 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,100 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,100 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:54,110 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:45:54,110 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:54,110 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:45:54,110 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:45:54,110 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:45:54,111 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:45:54,111 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,111 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,111 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:45:54,111 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:45:54,111 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:45:54,124 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:45:54,124 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:45:54,124 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:47:16,949 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:47:16,950 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:47:16,951 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:47:16,955 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:47:16,957 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:47:16,958 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:47:16,959 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:47:16,959 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:47:16,960 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:47:16,991 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:47:16,992 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:47:16,993 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:48:44,534 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:48:44,535 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:48:44,536 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:48:44,540 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:48:44,541 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:48:44,542 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:48:44,542 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:48:44,542 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:48:44,543 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:48:44,575 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:48:44,575 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:48:44,577 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:51:59,273 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:51:59,274 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:51:59,274 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:51:59,278 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:51:59,279 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,279 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,280 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,281 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,281 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:51:59,321 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:51:59,322 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:51:59,324 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:51:59,324 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:51:59,324 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:51:59,324 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:51:59,324 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,324 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,325 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,325 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,325 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:51:59,332 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:51:59,332 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:51:59,333 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:51:59,333 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:51:59,333 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:51:59,333 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:51:59,333 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,333 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,333 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,333 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,333 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:51:59,343 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:51:59,343 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:51:59,343 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:51:59,343 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:51:59,343 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:51:59,344 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:51:59,344 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,344 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,344 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:51:59,344 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:51:59,344 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:51:59,357 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:51:59,357 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:51:59,357 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:52:09,763 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:52:09,764 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:52:09,765 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:52:09,771 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:52:09,771 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:52:09,773 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:52:09,773 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:52:09,774 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:52:09,775 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:52:09,810 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:52:09,810 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:52:09,812 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:53:26,638 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:53:26,639 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:53:26,640 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:53:26,646 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:53:26,646 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:53:26,647 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:53:26,648 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:53:26,648 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:53:26,649 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:53:26,683 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:53:26,683 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:53:26,685 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:55:33,529 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:55:33,530 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:55:33,530 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:55:33,533 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:55:33,533 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:55:33,534 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:55:33,534 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:55:33,534 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:55:33,534 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:55:33,547 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:55:33,547 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:55:33,549 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:56:09,104 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:56:09,105 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:56:09,106 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:56:09,111 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:56:09,112 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,113 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,114 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,114 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,115 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:56:09,148 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:56:09,149 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:56:09,151 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:56:09,151 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:56:09,151 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:56:09,151 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:56:09,151 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,152 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,152 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,152 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,152 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:56:09,160 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:56:09,160 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:56:09,160 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:56:09,160 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:56:09,160 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:56:09,160 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:56:09,160 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,160 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,161 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,161 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,161 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:56:09,171 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:56:09,171 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:56:09,171 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:56:09,171 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:56:09,171 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:56:09,171 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:56:09,171 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,171 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,171 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:56:09,171 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:56:09,172 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:56:09,184 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:56:09,185 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:56:09,185 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:57:05,683 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:57:05,684 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:57:05,684 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:57:05,688 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:57:05,689 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,689 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,690 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,690 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,690 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:57:05,725 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:57:05,725 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:57:05,727 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:57:05,727 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:57:05,727 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:57:05,727 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:57:05,727 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,728 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,728 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,728 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,728 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:57:05,735 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:57:05,736 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:57:05,736 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:57:05,736 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:57:05,736 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:57:05,736 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:57:05,736 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,736 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,736 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,736 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,736 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:57:05,747 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:57:05,748 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:57:05,748 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:57:05,748 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:57:05,748 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:57:05,748 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:57:05,748 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,748 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,748 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:57:05,748 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:57:05,749 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:57:05,761 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:57:05,761 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:57:05,761 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:59:22,234 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:59:22,235 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:59:22,236 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:59:22,242 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:59:22,242 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,243 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,244 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,244 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,245 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:59:22,282 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:59:22,282 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:59:22,285 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:59:22,285 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:59:22,285 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:59:22,285 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:59:22,285 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,285 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,285 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,286 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,286 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:59:22,293 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:59:22,293 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:59:22,293 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:59:22,294 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:59:22,294 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:59:22,294 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:59:22,294 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,294 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,294 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,294 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,294 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:59:22,304 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:59:22,305 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:59:22,305 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:59:22,305 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:59:22,305 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:59:22,305 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:59:22,305 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,305 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,305 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:22,305 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:22,305 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:59:22,318 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 21:59:22,318 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:59:22,318 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 21:59:42,106 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 21:59:42,107 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 21:59:42,107 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 21:59:42,112 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 21:59:42,113 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:42,114 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:42,114 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 21:59:42,115 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 21:59:42,116 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 21:59:42,148 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 21:59:42,149 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 21:59:42,151 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:00:44,243 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:00:44,244 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:00:44,245 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:00:44,246 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:00:44,246 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,247 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,247 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,247 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,247 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:00:44,263 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 22:00:44,264 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:00:44,265 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:00:44,265 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:00:44,265 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:00:44,266 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:00:44,266 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,266 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,266 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,266 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,266 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:00:44,274 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:00:44,274 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:00:44,274 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:00:44,274 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:00:44,274 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:00:44,275 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:00:44,275 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,275 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,275 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,275 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,275 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:00:44,286 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:00:44,286 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:00:44,287 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:00:44,287 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:00:44,287 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:00:44,287 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:00:44,287 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,287 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,287 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:00:44,287 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:00:44,287 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:00:44,300 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:00:44,300 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:00:44,300 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:03:14,237 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:03:14,239 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:03:14,239 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:03:14,243 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:03:14,244 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,245 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,245 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,246 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,247 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:03:14,275 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:03:14,276 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:03:14,276 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:03:14,276 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:03:14,276 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:03:14,276 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:03:14,276 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,277 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,277 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,277 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,277 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:03:14,286 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:03:14,286 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:03:14,286 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:03:14,286 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:03:14,286 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:03:14,287 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:03:14,287 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,287 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,287 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,287 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,287 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:03:14,296 - entity_check - find_similar_entity - INFO - Extracted Entity:[['mac ', 0.6666666666666666]]
+2018-10-14 22:03:14,296 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:03:14,296 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:03:14,296 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:03:14,296 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:03:14,296 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:03:14,296 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,296 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,296 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,297 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,297 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:03:14,302 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:03:14,302 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:03:14,302 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:03:14,302 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:03:14,302 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:03:14,302 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:03:14,302 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,302 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,302 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,302 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,303 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:03:14,316 - entity_check - find_similar_entity - INFO - Extracted Entity:[['network', 0.7]]
+2018-10-14 22:03:14,316 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:03:14,316 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:03:14,316 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:03:14,316 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:03:14,317 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:03:14,317 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,317 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,317 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:03:14,317 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:03:14,317 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:03:14,327 - entity_check - find_similar_entity - INFO - Extracted Entity:[['drive', 0.7142857142857143]]
+2018-10-14 22:03:14,327 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:03:14,328 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:16,117 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:04:16,118 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:16,119 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:16,122 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:16,123 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,123 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,124 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,124 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,125 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:16,161 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 22:04:16,162 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:16,164 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:16,164 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:16,164 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:16,165 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:16,165 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,165 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,165 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,165 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,165 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:16,173 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:04:16,173 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:16,173 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:16,173 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:16,174 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:16,174 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:16,174 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,174 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,174 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,174 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,174 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:16,185 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:04:16,185 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:16,185 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:16,185 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:16,185 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:16,186 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:16,186 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,186 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,186 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:16,186 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:16,186 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:16,200 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:04:16,200 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:16,200 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:50,418 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:04:50,419 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:50,420 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:50,423 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:50,424 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,425 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,425 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,425 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,426 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:50,489 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 22:04:50,490 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:50,494 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:50,494 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:50,494 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:50,495 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:50,495 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,495 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,495 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,495 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,495 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:50,506 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:04:50,506 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:50,506 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:50,506 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:50,506 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:50,507 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:50,507 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,507 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,507 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,508 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,508 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:50,518 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:04:50,518 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:50,518 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:04:50,518 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:04:50,518 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:04:50,519 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:04:50,519 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,519 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,519 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:04:50,519 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:04:50,519 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:04:50,532 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:04:50,532 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:04:50,532 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:06:09,261 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:06:09,262 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:06:09,262 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:06:09,266 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:06:09,266 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,267 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,267 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,268 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,268 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:06:09,324 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 22:06:09,325 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:06:09,327 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:06:09,327 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:06:09,327 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:06:09,328 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:06:09,328 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,328 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,328 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,329 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,329 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:06:09,338 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:06:09,338 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:06:09,338 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:06:09,338 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:06:09,338 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:06:09,339 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:06:09,339 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,339 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,339 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,339 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,339 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:06:09,349 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:06:09,350 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:06:09,350 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:06:09,350 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:06:09,350 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:06:09,350 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:06:09,350 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,350 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,350 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:06:09,350 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:06:09,350 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:06:09,363 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:06:09,364 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:06:09,364 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:08:11,597 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:08:11,597 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:11,598 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:11,604 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:11,605 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,605 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,606 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,607 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,607 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:11,637 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:11,637 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:11,638 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:08:11,638 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:11,638 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:11,638 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:11,638 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,639 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,639 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,639 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,639 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:11,651 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:11,651 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:11,652 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:08:11,652 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:11,652 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:11,652 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:11,652 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,652 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,652 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,652 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,652 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:11,660 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:11,660 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:11,660 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:08:11,660 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:11,660 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:11,660 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:11,660 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,660 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,661 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:11,661 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:11,661 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:11,669 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:11,669 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:11,669 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:08:51,022 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:08:51,023 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:51,024 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:51,029 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:51,030 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,031 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,031 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,032 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,032 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:51,057 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:51,057 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:51,057 - entity_check - entity_retrieval - ERROR - Error Details.......'str' object has no attribute 'append'
+2018-10-14 22:08:51,058 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:51,058 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:51,058 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:51,058 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,059 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,059 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,059 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,059 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:51,070 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:51,070 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:51,070 - entity_check - entity_retrieval - ERROR - Error Details.......'str' object has no attribute 'append'
+2018-10-14 22:08:51,070 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:51,070 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:51,071 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:51,071 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,071 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,071 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,071 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,071 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:51,079 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:51,079 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:51,079 - entity_check - entity_retrieval - ERROR - Error Details.......'str' object has no attribute 'append'
+2018-10-14 22:08:51,079 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:08:51,079 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:08:51,079 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:08:51,079 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,079 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,080 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:08:51,080 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:08:51,080 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:08:51,088 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:08:51,088 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:08:51,088 - entity_check - entity_retrieval - ERROR - Error Details.......'str' object has no attribute 'append'
+2018-10-14 22:09:46,231 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:09:46,232 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:09:46,233 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:09:46,239 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:09:46,240 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,240 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,241 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,241 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,242 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:09:46,273 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:09:46,273 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:09:46,273 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:09:46,273 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:09:46,273 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:09:46,274 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:09:46,274 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,274 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,274 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,274 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,274 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:09:46,285 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:09:46,285 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:09:46,285 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:09:46,285 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:09:46,285 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:09:46,285 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:09:46,285 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,285 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,285 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,285 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,285 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:09:46,294 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:09:46,294 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:09:46,294 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:09:46,294 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:09:46,294 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:09:46,295 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:09:46,295 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,295 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,295 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:09:46,295 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:09:46,295 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:09:46,304 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:09:46,304 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:09:46,304 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:00,353 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:10:00,354 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:00,355 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:00,359 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:00,359 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,360 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,360 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,361 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,362 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:00,389 - entity_check - find_similar_entity - INFO - Extracted Entity:[['windows ', 0.6666666666666666]]
+2018-10-14 22:10:00,390 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:00,392 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:00,392 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:00,392 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:00,392 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:00,392 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,392 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,392 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,392 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,393 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:00,400 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:10:00,400 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:00,400 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:00,400 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:00,400 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:00,401 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:00,401 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,401 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,401 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,401 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,401 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:00,411 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:10:00,411 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:00,411 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:00,411 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:00,411 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:00,412 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:00,412 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,412 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,412 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:00,412 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:00,412 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:00,426 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:10:00,426 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:00,426 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:34,916 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:10:34,917 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:34,917 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:34,918 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:34,918 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,918 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,918 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,918 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,918 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:34,928 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:10:34,928 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:34,928 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:34,928 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:34,928 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:34,929 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:34,929 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,929 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,929 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,929 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,929 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:34,937 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:10:34,937 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:34,937 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:34,937 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:34,937 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:34,938 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:34,938 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,938 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,938 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,938 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,938 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:34,947 - entity_check - find_similar_entity - INFO - Extracted Entity:[['mac ', 0.6666666666666666]]
+2018-10-14 22:10:34,948 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:34,948 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:34,948 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:34,948 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:34,948 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:34,948 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,948 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,949 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,949 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,949 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:34,954 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:10:34,954 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:34,954 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:34,954 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:34,954 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:34,954 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:34,954 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,954 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,955 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,955 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,955 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:34,968 - entity_check - find_similar_entity - INFO - Extracted Entity:[['network', 0.7]]
+2018-10-14 22:10:34,968 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:34,968 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:10:34,968 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:10:34,968 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:10:34,968 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:10:34,968 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,969 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,969 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:10:34,969 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:10:34,969 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:10:34,979 - entity_check - find_similar_entity - INFO - Extracted Entity:[['drive', 0.7142857142857143]]
+2018-10-14 22:10:34,979 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:10:34,979 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:13:37,112 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:13:37,113 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:13:37,113 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:13:37,117 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:13:37,118 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,118 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,119 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,119 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,120 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:13:37,171 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:13:37,171 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:13:37,171 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:13:37,171 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:13:37,171 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:13:37,172 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:13:37,172 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,173 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,173 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,173 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,173 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:13:37,186 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:13:37,186 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:13:37,186 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:13:37,186 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:13:37,186 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:13:37,187 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:13:37,187 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,187 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,187 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,187 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,187 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:13:37,196 - entity_check - find_similar_entity - INFO - Extracted Entity:[['mac ', 0.6666666666666666]]
+2018-10-14 22:13:37,196 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:13:37,196 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:13:37,196 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:13:37,196 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:13:37,197 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:13:37,197 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,197 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,197 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,197 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,197 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:13:37,202 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:13:37,202 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:13:37,202 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:13:37,202 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:13:37,202 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:13:37,203 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:13:37,203 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,203 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,203 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,203 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,203 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:13:37,216 - entity_check - find_similar_entity - INFO - Extracted Entity:[['network', 0.7]]
+2018-10-14 22:13:37,216 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:13:37,216 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:13:37,216 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:13:37,216 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:13:37,217 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:13:37,217 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,217 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,217 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:13:37,217 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:13:37,217 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:13:37,227 - entity_check - find_similar_entity - INFO - Extracted Entity:[['drive', 0.7142857142857143]]
+2018-10-14 22:13:37,227 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:13:37,227 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:14:18,288 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:14:18,289 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:14:18,289 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:14:18,293 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:14:18,293 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:14:18,293 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:14:18,293 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:14:18,293 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:14:18,293 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:14:18,305 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:14:18,305 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:14:18,305 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:14:18,305 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:14:18,305 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:14:18,305 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:14:18,305 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:14:18,306 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:14:18,306 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:14:18,306 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:14:18,306 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:14:18,313 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:14:18,314 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:14:18,314 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:14:18,314 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:14:18,314 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:14:18,314 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:14:18,314 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:14:18,314 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:14:18,314 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:14:18,314 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:14:18,314 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:14:18,327 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:14:18,327 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:14:18,327 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:16:29,400 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:16:29,401 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:16:29,401 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:16:29,405 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:16:29,406 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:16:29,407 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:16:29,407 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:16:29,408 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:16:29,409 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:16:29,452 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:16:29,452 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:16:29,452 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:16:29,453 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:16:29,453 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:16:29,454 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:16:29,454 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:16:29,454 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:16:29,454 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:16:29,454 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:16:29,454 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:16:29,465 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:16:29,466 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:16:29,466 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:16:29,466 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:16:29,466 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:16:29,466 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:16:29,466 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:16:29,467 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:16:29,467 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:16:29,467 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:16:29,467 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:16:29,481 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:16:29,481 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:16:29,481 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:18:13,264 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:18:13,265 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:18:13,265 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:18:13,269 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:18:13,270 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:18:13,270 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:18:13,271 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:18:13,271 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:18:13,271 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:18:13,272 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:18:13,273 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:18:13,274 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:18:35,773 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:18:35,774 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:18:35,774 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:18:35,778 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:18:35,779 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:18:35,780 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:18:35,780 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:18:35,781 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:18:35,782 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:18:35,814 - entity_check - find_similar_entity - INFO - Extracted Entity:[['skype', 0.7142857142857143]]
+2018-10-14 22:18:35,814 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:18:35,814 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:18:49,574 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:18:49,575 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:18:49,576 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:18:49,581 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:18:49,582 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:18:49,583 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:18:49,583 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:18:49,584 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:18:49,585 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:18:49,623 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:18:49,623 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:18:49,623 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:19:05,976 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:19:05,976 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:19:05,977 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:19:05,981 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:19:05,981 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:19:05,982 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:19:05,983 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:19:05,983 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:19:05,984 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:19:06,020 - entity_check - find_similar_entity - INFO - Extracted Entity:[['system', 0.7058823529411765]]
+2018-10-14 22:19:06,021 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:19:06,021 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:19:32,580 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:19:32,582 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:19:32,583 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:19:32,586 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:19:32,587 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:19:32,587 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:19:32,588 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:19:32,588 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:19:32,589 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:19:32,649 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:19:32,649 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:19:32,650 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:19:47,095 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:19:47,096 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:19:47,096 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:19:47,100 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:19:47,101 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:19:47,102 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:19:47,102 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:19:47,103 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:19:47,104 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:19:47,139 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:19:47,139 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:19:47,139 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:21:04,406 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:21:04,406 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:21:04,406 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:21:04,407 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:21:04,407 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:21:04,408 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:21:04,408 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:21:04,408 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:21:04,408 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:21:04,421 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:21:04,421 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:21:04,422 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:21:35,370 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:21:35,371 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:21:35,371 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:21:35,375 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:21:35,376 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:21:35,377 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:21:35,377 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:21:35,378 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:21:35,379 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:21:35,426 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:21:35,426 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:21:35,426 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:23:02,799 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:23:02,799 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:23:02,799 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:23:02,801 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:23:02,801 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:23:02,801 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:23:02,801 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:23:02,801 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:23:02,801 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:23:02,824 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7]]
+2018-10-14 22:23:02,824 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:23:02,824 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:23:51,622 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:23:51,623 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:23:51,625 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:23:51,629 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:23:51,630 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:23:51,631 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:23:51,632 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:23:51,632 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:23:51,633 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:23:51,678 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:23:51,678 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:23:51,678 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:24:14,721 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:24:14,722 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:24:14,722 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:24:14,723 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:24:14,723 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:24:14,723 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:24:14,723 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:24:14,724 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:24:14,724 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:24:14,740 - entity_check - find_similar_entity - INFO - Extracted Entity:[['today', 0.7142857142857143]]
+2018-10-14 22:24:14,741 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:24:14,741 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:24:55,133 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:24:55,134 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:24:55,136 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:24:55,140 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:24:55,140 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:24:55,142 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:24:55,142 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:24:55,143 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:24:55,144 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:24:55,199 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:24:55,200 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:24:55,200 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:25:26,588 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:25:26,589 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:25:26,589 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:25:26,594 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:25:26,594 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,595 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,596 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,596 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,597 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:25:26,639 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:25:26,640 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:25:26,640 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:25:26,640 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:25:26,640 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:25:26,641 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:25:26,641 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,641 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,641 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,641 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,641 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:25:26,651 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 22:25:26,652 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:25:26,652 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:25:26,652 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:25:26,652 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:25:26,652 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:25:26,652 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,652 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,653 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,653 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,653 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:25:26,666 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7]]
+2018-10-14 22:25:26,666 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:25:26,666 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:25:26,666 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:25:26,666 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:25:26,666 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:25:26,666 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,667 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,667 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:25:26,667 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:25:26,667 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:25:26,678 - entity_check - find_similar_entity - INFO - Extracted Entity:[['today', 0.7142857142857143]]
+2018-10-14 22:25:26,678 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:25:26,678 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:27:41,168 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:27:41,168 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:27:41,169 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:27:41,171 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:27:41,171 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:27:41,171 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:27:41,171 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:27:41,172 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:27:41,172 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:27:41,215 - entity_check - find_similar_entity - INFO - Extracted Entity:[['today', 0.7142857142857143], ['weather', 0.7]]
+2018-10-14 22:27:41,216 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:27:41,216 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 22:28:14,969 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 22:28:14,969 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 22:28:14,969 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 22:28:14,971 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 22:28:14,971 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:28:14,971 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:28:14,971 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 22:28:14,971 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 22:28:14,972 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 22:28:15,011 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7]]
+2018-10-14 22:28:15,012 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 22:28:15,012 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:17:36,696 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:17:36,734 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:17:36,735 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:17:36,746 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:17:36,746 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:17:36,747 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:17:36,747 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:17:36,747 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:17:36,748 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:17:36,819 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7], ['win', 0.6666666666666666]]
+2018-10-14 23:17:36,820 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:17:36,825 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:17:59,599 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:17:59,599 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:17:59,599 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:17:59,600 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:17:59,600 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:17:59,600 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:17:59,601 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:17:59,601 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:17:59,601 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:17:59,617 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7]]
+2018-10-14 23:17:59,617 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:17:59,617 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:18:18,425 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:18:18,425 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:18:18,425 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:18:18,426 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:18:18,426 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:18,426 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:18,426 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:18,427 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:18,427 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:18:18,481 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7], ['win', 0.6666666666666666]]
+2018-10-14 23:18:18,482 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:18:18,487 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:18:44,874 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:18:44,875 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:18:44,875 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:18:44,878 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:18:44,878 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,879 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,879 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,879 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,879 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:18:44,895 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7]]
+2018-10-14 23:18:44,895 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:18:44,895 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:18:44,895 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:18:44,895 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:18:44,896 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:18:44,896 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,896 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,896 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,896 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,896 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:18:44,905 - entity_check - find_similar_entity - INFO - Extracted Entity:[['win', 0.6666666666666666]]
+2018-10-14 23:18:44,905 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:18:44,906 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:18:44,906 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:18:44,906 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:18:44,907 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:18:44,907 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,907 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,907 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,907 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,907 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:18:44,917 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:18:44,917 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:18:44,917 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:18:44,917 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:18:44,917 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:18:44,918 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:18:44,918 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,918 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,918 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:18:44,918 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:18:44,918 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:18:44,928 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:18:44,928 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:18:44,928 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:19:11,876 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:19:11,876 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:19:11,876 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:19:11,877 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:19:11,878 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:19:11,878 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:19:11,878 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:19:11,878 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:19:11,878 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:19:11,892 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7]]
+2018-10-14 23:19:11,893 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:19:11,893 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:19:26,947 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:19:26,947 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:19:26,947 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:19:26,948 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:19:26,948 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:19:26,948 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:19:26,948 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:19:26,949 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:19:26,949 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:19:26,987 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7], ['win', 0.6666666666666666]]
+2018-10-14 23:19:26,988 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:19:26,992 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:19:48,196 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:19:48,196 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:19:48,196 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:19:48,197 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:19:48,197 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:19:48,198 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:19:48,198 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:19:48,198 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:19:48,198 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:19:48,219 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:19:48,220 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:19:48,220 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:49:54,914 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:49:54,915 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:49:54,915 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:49:54,916 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:49:54,916 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:49:54,916 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:49:54,917 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:49:54,917 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:49:54,917 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:49:54,951 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:49:54,951 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:49:54,951 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:50:15,180 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:50:15,180 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:50:15,180 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:50:15,182 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:50:15,182 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:50:15,182 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:50:15,182 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:50:15,182 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:50:15,183 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:50:15,216 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:50:15,217 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:50:15,217 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:51:33,511 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:51:33,511 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:51:33,511 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:51:33,513 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:51:33,513 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:51:33,513 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:51:33,514 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:51:33,514 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:51:33,514 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:51:33,621 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7], ['win', 0.6666666666666666]]
+2018-10-14 23:51:33,624 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:51:33,634 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:52:37,399 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:52:37,399 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:52:37,399 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:52:37,401 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:52:37,401 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:52:37,401 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:52:37,401 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:52:37,402 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:52:37,402 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:52:37,436 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:52:37,437 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:52:37,437 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:53:42,886 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:53:42,886 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:53:42,886 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:53:42,888 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:53:42,888 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:53:42,888 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:53:42,888 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:53:42,888 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:53:42,888 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:53:42,927 - entity_check - find_similar_entity - INFO - Extracted Entity:[['today', 0.7142857142857143], ['weather', 0.7]]
+2018-10-14 23:53:42,929 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:53:42,929 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:54:05,371 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:54:05,371 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:54:05,371 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:54:05,372 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:54:05,373 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:54:05,373 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:54:05,373 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:54:05,373 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:54:05,373 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:54:05,453 - entity_check - find_similar_entity - INFO - Extracted Entity:[['today', 0.7142857142857143], ['weather', 0.7]]
+2018-10-14 23:54:05,455 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:54:05,456 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:54:47,987 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:54:47,987 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:54:47,987 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:54:47,988 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:54:47,989 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:54:47,989 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:54:47,989 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:54:47,989 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:54:47,989 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:54:48,095 - entity_check - find_similar_entity - INFO - Extracted Entity:[['weather', 0.7], ['win', 0.6666666666666666]]
+2018-10-14 23:54:48,097 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:54:48,107 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:55:50,793 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:55:50,793 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:55:50,793 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:55:50,795 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:55:50,795 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:55:50,795 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:55:50,795 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:55:50,795 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:55:50,795 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:55:50,850 - entity_check - find_similar_entity - INFO - Extracted Entity:[['london', 0.7058823529411765], ['weather', 0.7], ['win', 0.6666666666666666]]
+2018-10-14 23:55:50,852 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:55:50,857 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:57:53,971 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:57:53,971 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:57:53,971 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:57:53,973 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:57:53,973 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:57:53,973 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:57:53,973 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:57:53,973 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:57:53,973 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:57:54,039 - entity_check - find_similar_entity - INFO - Extracted Entity:[['rain', 0.7272727272727273], ['today', 0.7142857142857143]]
+2018-10-14 23:57:54,041 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:57:54,041 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:59:00,052 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:59:00,052 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:59:00,053 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:59:00,055 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:59:00,055 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:00,055 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:00,055 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:00,056 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:00,056 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:59:00,120 - entity_check - find_similar_entity - INFO - Extracted Entity:[['rain', 0.7272727272727273], ['today', 0.7142857142857143]]
+2018-10-14 23:59:00,122 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:59:00,122 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:59:27,179 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-14 23:59:27,180 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:59:27,180 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:59:27,183 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:59:27,183 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,184 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,184 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,185 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,185 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:59:27,217 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:59:27,217 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:59:27,217 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:59:27,217 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:59:27,217 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:59:27,218 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:59:27,218 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,218 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,218 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,218 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,218 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:59:27,232 - entity_check - find_similar_entity - INFO - Extracted Entity:[]
+2018-10-14 23:59:27,232 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:59:27,232 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:59:27,233 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:59:27,233 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:59:27,233 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:59:27,234 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,234 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,234 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,234 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,234 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:59:27,252 - entity_check - find_similar_entity - INFO - Extracted Entity:[['rain', 0.7272727272727273]]
+2018-10-14 23:59:27,252 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:59:27,252 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-14 23:59:27,253 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-14 23:59:27,253 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-14 23:59:27,253 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-14 23:59:27,254 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,254 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,254 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-14 23:59:27,254 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-14 23:59:27,254 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-14 23:59:27,272 - entity_check - find_similar_entity - INFO - Extracted Entity:[['today', 0.7142857142857143]]
+2018-10-14 23:59:27,273 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-14 23:59:27,273 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-15 00:00:12,453 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-15 00:00:12,453 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-15 00:00:12,453 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-15 00:00:12,455 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-15 00:00:12,455 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-15 00:00:12,455 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-15 00:00:12,455 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-15 00:00:12,455 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-15 00:00:12,456 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-15 00:00:12,521 - entity_check - find_similar_entity - INFO - Extracted Entity:[['rain', 0.7272727272727273]]
+2018-10-15 00:00:12,522 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-15 00:00:12,522 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-15 00:04:05,929 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-15 00:04:05,930 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-15 00:04:05,930 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-15 00:04:05,931 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-15 00:04:05,931 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-15 00:04:05,932 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-15 00:04:05,932 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-15 00:04:05,932 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-15 00:04:05,932 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-15 00:04:05,996 - entity_check - find_similar_entity - INFO - Extracted Entity:[['rain', 0.7272727272727273]]
+2018-10-15 00:04:05,997 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-15 00:04:05,997 - entity_check - entity_retrieval - INFO - Entity retrieval completed
+2018-10-15 00:05:40,552 - entity_check - information_retrieval - INFO - information retrieval started
+2018-10-15 00:05:40,553 - entity_check - entity_retrieval - INFO - Entity retrieval started
+2018-10-15 00:05:40,553 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv started
+2018-10-15 00:05:40,554 - entity_check - extract_entity - INFO - Extraction of entity and value from entitynew.csv completed
+2018-10-15 00:05:40,554 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-15 00:05:40,555 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-15 00:05:40,555 - entity_check - generate_ngrams - INFO - ngram started
+2018-10-15 00:05:40,555 - entity_check - generate_ngrams - INFO - ngram completed
+2018-10-15 00:05:40,555 - entity_check - find_similar_entity - INFO - Similarity matching started
+2018-10-15 00:05:40,633 - entity_check - find_similar_entity - INFO - Extracted Entity:[['cloudy', 0.7058823529411765]]
+2018-10-15 00:05:40,634 - entity_check - find_similar_entity - INFO - Similarity matching completed
+2018-10-15 00:05:40,634 - entity_check - entity_retrieval - INFO - Entity retrieval completed
